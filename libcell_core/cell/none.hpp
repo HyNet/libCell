@@ -56,7 +56,7 @@ struct none_t : detail::comparable<none_t>
 		return false;
 	}
 
-
+	/// none_t is always equal to none_t
 	static constexpr int compare(none_t) 
 	{
 		return 0;

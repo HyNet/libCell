@@ -11,7 +11,8 @@ file(GLOB_RECURSE LIBCELL_CORE_HDRS "cell/*.hpp")
 
 # list cpp files excluding platform-dependent files
 set(LIBCELL_CORE_SRCS
-	src/execution_unit.cpp)
+	src/execution_unit.cpp
+	src/atom.cpp)
 #set (LIBCELL_CORE_SRCS
 #     src/abstract_actor.cpp
 #     src/abstract_channel.cpp

@@ -1,10 +1,10 @@
 /*!
  * @file annotation.hpp
- * @brief 简要说明
+ * @brief Cell 中所有的meta annotaion的type tag
  *
- *  详细说明
+ *  Cell 中所有的meta annotaion的type tag
  *
- * @author
+ * @author atom
  * @date 2017/01/24
  * @version
  * @note
